@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "9.8 Boggle", "9.8 Boggle.vbproj", "{5A72A1FA-4BEE-4956-AA05-CFC1BE81957D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A72A1FA-4BEE-4956-AA05-CFC1BE81957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A72A1FA-4BEE-4956-AA05-CFC1BE81957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A72A1FA-4BEE-4956-AA05-CFC1BE81957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A72A1FA-4BEE-4956-AA05-CFC1BE81957D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3491E7F0-D3E1-4579-8734-02F9856D59E1}
+	EndGlobalSection
+EndGlobal
